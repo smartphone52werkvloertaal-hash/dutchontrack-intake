@@ -9,6 +9,8 @@ A short online intake that gives you:
 - personal course advice
 - insight into whether an intensive course suits you
 
+[Start the intake](/intake/start/)
+
 ---
 
 ## Why an online intake?
