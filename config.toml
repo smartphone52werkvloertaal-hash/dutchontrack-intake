@@ -1,4 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Dutch on Track — Online Intake"
-``
+
+[outputs]
+home = ["HTML"]
