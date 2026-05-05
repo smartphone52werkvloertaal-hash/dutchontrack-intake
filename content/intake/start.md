@@ -21,4 +21,4 @@ Before you start, please:
 
 ---
 
-[Start listening](/intake/listening/1/)
+[Start listering](/intake/listening/1/){.primary}
